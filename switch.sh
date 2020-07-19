@@ -11,3 +11,4 @@
     else
         echo "not type - $DST"
     fi
+    rm -rf ~/.vimviews
